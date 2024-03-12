@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: Institute for Advanced Study, Princeton University
+      institution: Vision for Robotics Lab, TU Wien, Vienna
       year: 2022 - to date
       description:
         - Development of synthetic dataset generation, object detection and pose estimation methods for challenging object materials in household environments for <a href="http://ichores.ciirc.cvut.cz/"> FwF project iChores</a>.
