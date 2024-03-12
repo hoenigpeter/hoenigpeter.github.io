@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hoenigpeter
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - hoenigpeter/randomized_texturing
+  - hoenigpeter/yolov5_ros
+  - hoenigpeter/ROS_teaching_GUI
+  
+

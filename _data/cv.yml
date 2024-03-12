@@ -2,64 +2,40 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Peter Hönig
     - name: Date of Birth
-      value: 14th March 1879
+      value: 10th April 1996
     - name: Languages
       value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
+    - title: Research Assistant
       institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+      year: 2022 - to date
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Development of synthetic dataset generation, object detection and pose estimation methods for challenging object materials in household environments for <a href="http://ichores.ciirc.cvut.cz/"> FwF project iChores</a>.
+
+    - title: Software Engineering Intern
+      institution: Bosch Engineering GmbH, Vienna, Austria
+      year: 04/2020 - 12/2020
       description:
-        - Description 1.
-        - Description 2.
+        - Assisting with software integration and project management in engine control unit department
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+- title: Education
+  type: time_table
+  contents:
+    - title: Masters Degree
+      institution: University of Applied Sciences Technikum, Vienna, Austria
+      year: 2020 - 2022
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Thesis: "Explainable Object Detection and Pose Estimation in the Field of Search and Rescue Robotics"
+    - title: Bachelor in Mechatronics and Robotics
+      institution: University of Applied Sciences Technikum, Vienna, Austria
+      year: 2016 - 2019
+      description:
+        - Thesis: "Programming a mobile robot with a graphical user-interface for teaching purposes"
 
 - title: Open Source Projects
   type: time_table
