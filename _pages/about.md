@@ -16,4 +16,4 @@ social: false # includes social icons at the bottom of the page
 
 I am a research assistant in the [Vision for Robotics (V4R)](https://www.acin.tuwien.ac.at/vision-for-robotics/) group of [Markus Vincze](https://scholar.google.com/citations?user=bdEbeaQAAAAJ&hl=de&oi=ao) at the [Automation and Control Institute](https://www.acin.tuwien.ac.at/) at TU Wien.
 
-I focus on improving synthetic dataset generation, object detection and pose estimation for robot vision. The goal of my research is to make robot vision more reliable for object grasping, especially for challenging material properties such as metallic, textureless or transparent objects and ideally without the need for depth information.
+My research focuses on bridging the gap between synthetic and real domains in object detection and pose estimation for robot vision. My goal is to enhance the reliability of robotic grasping, particularly for challenging materials like metallic and textureless objects, while promoting generalization beyond specific instances and potentially across categories.

@@ -3,7 +3,8 @@ github_users:
 
 github_repos:
   - hoenigpeter/randomized_texturing
-  - hoenigpeter/yolov5_ros
+  - v4r-tuwien/gdrnet_pipeline
+  - v4r-tuwien/pointing_gesture_recognition
   - hoenigpeter/ROS_teaching_GUI
   - hoenigpeter/yolov8_ros
   - hoenigpeter/ros_docker
